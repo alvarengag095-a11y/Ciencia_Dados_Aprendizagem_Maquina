@@ -84,17 +84,16 @@ Pais e responsáveis enfrentam a ausência de informação técnica comparável 
 
 | Parte interessada | Interesse no projeto | Influência | Forma de envolvimento |
 |---|---|---|---|
-| | | Baixa / Média / Alta | |
-| | | Baixa / Média / Alta | |
-| | | Baixa / Média / Alta | |
+|Famílias (pais e responsáveis) |	Escolher proteção eficaz e não invasiva |Alta |	Público-alvo dos resultados; validação da clareza do ranking |
+|Desenvolvedores de software |Requisitos claros de Privacy by Design e XAI | Alta |	Destinatários do framework de requisitos proposto |
+|Reguladores (ANPD, conselhos de direitos) |Fiscalizar a aplicação da LGPD e do ECA Digital | Alta |	Potenciais usuários dos indicadores de conformidade |
+| Crianças e adolescentes|	Ser protegido sem vigilância arbitrária; direito à explicação | Média|	Considerados como usuários na avaliação de IHC (interface do lado supervisionado) |
 
 ## 5. Objetivos do projeto
 
 ### 5.1 Objetivo geral
 
-Escreva um objetivo que indique o que será analisado, para qual finalidade e em qual contexto. Inicie com um verbo no infinitivo.
-
-**Objetivo geral:**
+Avaliar, por meio de uma matriz multicritério aplicada em testes simulados, o desempenho técnico de cinco ferramentas de controle parental quanto à detecção automatizada de conteúdo de risco, à transparência algorítmica, à governança de dados e à usabilidade, a fim de subsidiar a escolha informada por famílias e a definição de requisitos de projeto para desenvolvedores, no contexto da LGPD e do ECA Digital.
 
 ________________________________________________________________________________
 
@@ -104,21 +103,21 @@ Defina de três a cinco objetivos mensuráveis e compatíveis com o prazo do pro
 
 | Nº | Objetivo específico | Evidência de conclusão |
 |---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 |	Construir uma matriz multicritério |Matriz validada pela orientadora, com definição operacional de cada critério e da régua de pontuação |
+| 2 |Levantar e catalogar a documentação técnica, os termos de uso e as políticas de privacidade das cinco ferramentas selecionadas|Base documental estruturada, com data de coleta e extração das cláusulas relativas a coleta, retenção e compartilhamento de dados |
+| 3 |	Executar um protocolo padronizado de testes simulados de risco em ambiente controlado, registrando detecções, alertas e bloqueios de cada ferramenta |Planilha de registro com um caso de teste por linha e resultado observado |
+| 4 | 	Analisar comparativamente os resultados, gerando pontuação por dimensão e taxas de detecção, falso positivo e falso negativo por ferramenta|Painel de visualizações e ranking técnico consolidado |
 | 5 | | |
 
 ### 5.3 Verificação dos objetivos
 
 Marque após revisar:
 
-- [ ] São específicos e escritos com clareza.
-- [ ] Podem ser verificados por meio de entregáveis ou métricas.
-- [ ] São viáveis com os dados, recursos e tempo disponíveis.
-- [ ] Estão diretamente relacionados ao problema central.
-- [ ] Consideram os usuários e a decisão que será apoiada.
+- [X] São específicos e escritos com clareza.
+- [X] Podem ser verificados por meio de entregáveis ou métricas.
+- [X] São viáveis com os dados, recursos e tempo disponíveis.
+- [X] Estão diretamente relacionados ao problema central.
+- [X] Consideram os usuários e a decisão que será apoiada.
 
 ## 6. Perguntas de negócio
 
@@ -126,11 +125,10 @@ As perguntas de negócio orientam a coleta, a análise e a comunicação dos res
 
 | Nº | Pergunta de negócio | Decisão apoiada | Dados necessários | Análise ou indicador possível |
 |---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+| 1 |	Em que medida cada ferramenta detecta conteúdo textual de risco em português brasileiro, incluindo gírias e grafias evasivas? |Escolha da ferramenta por famílias | Registros dos casos de teste simulados e respostas de cada ferramenta| Taxa de detecção, falso negativo e falso positivo por ferramenta|
+| 2 |	Que grau de explicação as ferramentas oferecem ao responsável e ao menor quando bloqueiam conteúdo ou emitem alerta? |Exigência de explicabilidade em contratos e políticas |Capturas de tela dos alertas e mensagens de bloqueio nas duas interfaces | Índice de explicabilidade (escala 0–3) por ferramenta e por tipo de evento|
+| 3 |Quais categorias de dados pessoais cada ferramenta coleta e por quanto tempo os retém, em relação ao estritamente necessário? | Avaliação de conformidade com a minimização prevista na LGPD| Políticas de privacidade, permissões solicitadas pelo app e configurações disponíveis|Índice de minimização: razão entre dados coletados e dados justificados pela finalidade declarada |
+| 4 | De que forma o fluxo de consentimento das ferramentas influencia a decisão do responsável de autorizar coleta adicional?|Recomendações de design para desenvolvedores |Sequência de telas de onboarding e opções pré-marcadas |Contagem e tipificação de dark patterns identificados por ferramenta |
 
 ## 7. Hipóteses iniciais
 
@@ -138,36 +136,36 @@ Registre suposições que serão investigadas, sem apresentá-las como conclusõ
 
 | Hipótese | Como poderá ser testada? | Resultado que a refutaria? |
 |---|---|---|
-| H1. | | |
-| H2. | | |
-| H3. | | |
+| 	Há relação inversa entre volume de dados coletados e clareza da explicação oferecida ao usuário: quanto mais a ferramenta coleta, menos explica |Cruzamento entre o índice de minimização e o índice de explicabilidade das cinco ferramentas | Ausência de relação, ou ferramentas que coletam mais e também explicam mais|
+|A interface do lado supervisionado (menor) oferece menos informação sobre o monitoramento do que a interface do responsável | Avaliação heurística comparada das duas interfaces, com o mesmo conjunto de heurísticas de Nielsen|Paridade informacional entre as duas interfaces |
+|	Nenhuma das cinco ferramentas atende integralmente aos requisitos combinados de eficácia, minimização de dados e explicabilidade |Verificação do atendimento pleno aos critérios das três dimensões da matriz |Pelo menos uma ferramenta com pontuação máxima nas três dimensões |
 
 ## 8. Dados necessários e viabilidade
 
 | Conjunto ou fonte de dados | Variáveis principais | Formato | Acesso / responsável | Qualidade esperada |
 |---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
+|Registros dos testes simulados de risco |ID do caso, categoria de risco, ferramenta, detecção (sim/não), tipo de alerta, tempo de resposta, texto exibid |Tabela | Gerado pela equipe| Alta |
+|Estatísticas públicas de exposição e incidentes |Faixa etária, tipo de incidente, ano, região |Relatórios (PDF) e tabelas |SaferNet, TIC Kids Online Brasil, ONU, UNICEF |Alta  |
+|Permissões e metadados dos aplicativos | Permissões solicitadas, versão, última atualização, faixa etária declarada| Ficha da loja de aplicativos| Público; equipe| Alta para permissões; média para descrições comerciais|
 
 ### 8.1 Avaliação inicial dos dados
 
-- **Disponibilidade:** __________________________________________________________
-- **Volume e período coberto:** __________________________________________________
-- **Dados ausentes, duplicados ou inconsistentes previstos:** ______________________
-- **Necessidade de integração entre fontes:** _____________________________________
-- **Restrições legais, contratuais ou institucionais:** _____________________________
+- **Disponibilidade:** os dados primários dependem apenas da execução do protocolo pela equipe; os secundários são públicos e de acesso imediato.
+- **Volume e período coberto:** estimados 3 ferramentas × cerca de 15 casos de teste; documentação referente às versões vigentes no mesmo período.
+- **Dados ausentes, duplicados ou inconsistentes previstos:** ausência de informação sobre técnicas de IA; possível divergência entre o que a política declara e o que o aplicativo solicita em permissões.
+- **Necessidade de integração entre fontes:** sim — a pontuação final exige unir registros de teste, codificação das interfaces e extração das políticas por meio de um identificador comum de ferramenta e critério.
+- **Restrições legais, contratuais ou institucionais:** os termos de uso de algumas ferramentas restringem engenharia reversa e uso automatizado; a auditoria se limita à observação de comportamento na interface, sem interceptação de tráfego ou descompilação.
 
 ### 8.2 Privacidade, ética e segurança
 
-- [ ] A equipe verificou se há dados pessoais ou sensíveis.
-- [ ] A coleta e o uso dos dados possuem finalidade legítima e explícita.
-- [ ] O acesso será limitado às pessoas autorizadas.
-- [ ] Dados pessoais serão minimizados, anonimizados ou pseudonimizados quando necessário.
-- [ ] Possíveis vieses e impactos sobre grupos serão analisados.
-- [ ] A divulgação dos resultados evitará reidentificação ou exposição indevida.
+- [X] A equipe verificou se há dados pessoais ou sensíveis.
+- [X] A coleta e o uso dos dados possuem finalidade legítima e explícita.
+- [X] O acesso será limitado às pessoas autorizadas.
+- [X] Dados pessoais serão minimizados, anonimizados ou pseudonimizados quando necessário.
+- [X] Possíveis vieses e impactos sobre grupos serão analisados.
+- [X] A divulgação dos resultados evitará reidentificação ou exposição indevida.
 
-**Cuidados específicos deste projeto:**
+**Cuidados específicos deste projeto:** Nenhuma criança ou adolescente real participa dos testes: os cenários de risco são simulados em contas e dispositivos de teste criados pela própria equipe, com perfis fictícios. Não há coleta de conversas reais, prints de terceiros ou dados de usuários das plataformas. O conteúdo textual usado nos testes é construído pela equipe a partir de tipologias descritas na literatura, sem reproduzir material de abuso. As capturas de tela publicadas no trabalho serão tratadas para remover identificadores de conta. Os resultados serão apresentados como avaliação técnica de produtos.
 
 ________________________________________________________________________________
 
@@ -175,11 +173,11 @@ ________________________________________________________________________________
 
 | Dentro do escopo | Fora do escopo |
 |---|---|
-| | |
-| | |
-| | |
+|três ferramentas: Google Family Link, Qustodio, Microsoft Family Safety |Desenvolvimento ou treinamento de modelo próprio de PLN/ML |
+|Testes simulados de detecção em ambiente controlado |Interceptação de tráfego, engenharia reversa ou análise de código-fonte |
+|Verificação de aderência à LGPD (com ênfase no art. 14) e ao ECA Digital |Ferramentas fora da lista definida e plataformas exclusivas de outros mercados |
 
-**Restrições conhecidas:** tempo, acesso a dados, ferramentas, infraestrutura, conhecimento técnico ou normas.
+**Restrições conhecidas:** Prazo curto; versões gratuitas ou de teste das ferramentas podem limitar funcionalidades avaliáveis; ausência de APIs públicas de classificação impede medição direta de acurácia dos modelos, restringindo a análise ao comportamento observável na interface; equipe de duas integrantes conciliando outras disciplinas.
 
 ________________________________________________________________________________
 
