@@ -185,10 +185,10 @@ ________________________________________________________________________________
 
 | Entregável | Descrição | Formato | Responsável | Critério de aceite |
 |---|---|---|---|---|
-| Base tratada | | | | |
+| Base tratada | 	Registros dos testes e extração das políticas, unificados por ferramenta e critério|Tabela | Gabriela|	Sem registros duplicados; todos os casos de teste com resultado preenchido e evidência associada |
 | Análise exploratória | | | | |
-| Visualizações / painel | | | | |
-| Relatório ou apresentação | | | | |
+| Visualizações / painel |Pontuação de cada ferramenta nos critérios |tabela no TCC |Equipe |	Cada pontuação rastreável a uma evidência registrada |
+| Relatório ou apresentação | Monografia completa e apresentação para a banca| Documento e slides|Equipe |Aderente às normas ABNT e ao cronograma da orientação |
 | Outro | | | | |
 
 ## 11. Critérios de sucesso
@@ -197,11 +197,11 @@ Defina como a equipe saberá se o projeto alcançou seus objetivos.
 
 | Critério | Indicador ou evidência | Meta | Forma de verificação |
 |---|---|---|---|
-| Relevância para o problema | | | |
-| Qualidade dos dados | | | |
-| Qualidade da análise | | | |
-| Utilidade para o público-alvo | | | |
-| Comunicação dos resultados | | | |
+| Relevância para o problema |Resultados dos testes | Todas as plataformas| 	Conferência entre a a pergunta central e o capítulo de resultados|
+| Qualidade dos dados |Casos de teste executados |≥ 95% dos casos previstos |Auditoria da base tratada |
+| Qualidade da análise |Células da matriz com justificativa rastreável | 100%| 	Revisão cruzada entre as integrantes e validação da orientadora|
+| Utilidade para o público-alvo | Ranking compreensível por leitor sem formação técnica| Aprovado em leitura|Leitura-teste informal antes da entrega final |
+| Comunicação dos resultados | Apresentação entregue no prazo e de acordo com a ABNT| Sem pendências |Validação da orientadora e da banca |
 
 ## 12. Plano inicial de trabalho
 
