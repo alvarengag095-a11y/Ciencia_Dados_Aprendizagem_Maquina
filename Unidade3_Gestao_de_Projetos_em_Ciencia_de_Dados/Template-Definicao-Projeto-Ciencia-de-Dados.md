@@ -207,50 +207,50 @@ Defina como a equipe saberá se o projeto alcançou seus objetivos.
 
 | Etapa | Atividades principais | Responsável(is) | Prazo | Dependências |
 |---|---|---|---|---|
-| 1. Definição | | | | |
-| 2. Obtenção dos dados | | | | |
-| 3. Preparação dos dados | | | | |
-| 4. Análise / modelagem | | | | |
-| 5. Validação | | | | |
-| 6. Comunicação | | | | |
+| 1. Definição |Ajuste do título e do problema, revisão do referencial (crimes cibernéticos, IA, marco regulatório, IHC)|Equipe|	Setembro/2026| |
+| 2. Obtenção dos dados |Seleção final das ferramentas, criação das contas de teste, coleta das políticas e permissões | Equipe| Outubro/2026|	Etapa 1 e definição sobre versões pagas |
+| 3. Preparação dos dados |Construção da matriz multicritério, do protocolo de testes e da planilha de codificação |Equipe |Outubro/2026 |Etapa 2|
+| 4. Análise / modelagem |Execução dos testes simulados, pontuação da matriz, análise exploratória e visualizações |Equipe |Outubro–Novembro/2026 |Etapa 3 |
+| 5. Validação | Revisão cruzada das pontuações, verificação das hipóteses, validação com a orientadora|Equipe  |Novembro/2026 |Etapa 4 |
+| 6. Comunicação | Redação do ranking e do framework, conclusão, revisão ABNT e apresentação| Equipe |Novembro–Dezembro/2026 |Etapa 5 |
 
 ## 13. Riscos do projeto
 
 | Risco | Probabilidade | Impacto | Estratégia de resposta | Responsável |
 |---|---|---|---|---|
-| | Baixa / Média / Alta | Baixo / Médio / Alto | | |
-| | Baixa / Média / Alta | Baixo / Médio / Alto | | |
-| | Baixa / Média / Alta | Baixo / Médio / Alto | | |
+|Atualização das ferramentas durante o período de testes, alterando comportamento | Média |  Médio  |	Registrar número de versão e data em cada teste; concentrar a coleta em janela curta |Equipe |
+| Atraso pelo acúmulo com outras disciplinas|Média |  Alto | Reuniões semanais de acompanhamento aos sábados; entregas parciais por capítulo|Equipe e Flávia |
+|Documentação técnica insuficiente sobre as técnicas de IA empregadas |Média | Alto |Tratar a opacidade como resultado da auditoria, pontuando-a no critério de transparência | Equipe|
 
 ## 14. Organização da equipe
 
 | Integrante | Papel principal | Responsabilidades | Apoio necessário |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Profa. Flávia|Orientação |Validação do recorte técnico, do instrumento de avaliação e das entregas por capítulo |Reuniões semanais aos sábados, às 14h30 |
+| Graziela Marcela Alvarenga Silva Viana| Levantamento documenta|Coleta das políticas e permissões, execução do protocolo de teste | Dispositivo dedicado para os testes; revisão cruzada das pontuações|
+|Gabriela Marcela Alvarenga Silva Viana |Coordenação técnica | Matriz multicritério, tratamento da base, análise exploratória, redação dos capítulos de metodologia e resultados|Validação metodológica da orientadora; acesso às versões de teste das ferramentas |
+
 
 ## 15. Validação da definição do projeto
 
 Antes da entrega, confirme:
 
-- [ ] O problema é real, relevante e delimitado.
-- [ ] O público-alvo e as partes interessadas estão identificados.
-- [ ] O objetivo geral e os objetivos específicos são coerentes.
-- [ ] As perguntas de negócio orientam decisões concretas.
-- [ ] Há dados potencialmente disponíveis para responder às perguntas.
-- [ ] O escopo é compatível com o prazo e os recursos.
-- [ ] Os critérios de sucesso são mensuráveis.
-- [ ] Riscos, privacidade, ética e segurança foram considerados.
-- [ ] Funções e responsabilidades foram distribuídas.
+- [X] O problema é real, relevante e delimitado.
+- [X] O público-alvo e as partes interessadas estão identificados.
+- [X] O objetivo geral e os objetivos específicos são coerentes.
+- [X] As perguntas de negócio orientam decisões concretas.
+- [X] Há dados potencialmente disponíveis para responder às perguntas.
+- [X] O escopo é compatível com o prazo e os recursos.
+- [X] Os critérios de sucesso são mensuráveis.
+- [X] Riscos, privacidade, ética e segurança foram considerados.
+- [X] Funções e responsabilidades foram distribuídas.
 
 ## 16. Aprovação e registro de ajustes
 
 | Responsável | Validação / observação | Data |
 |---|---|---|
 | Representante da equipe | | |
-| Professor(a) / orientador(a) | | |
+| Professor(a) / orientador(a) |Flávia | |
 
 ### Ajustes solicitados após a apresentação inicial
 
