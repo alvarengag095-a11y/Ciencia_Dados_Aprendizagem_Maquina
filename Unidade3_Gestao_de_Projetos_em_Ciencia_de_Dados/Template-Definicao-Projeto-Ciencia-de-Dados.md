@@ -11,7 +11,7 @@
 | Campo | Preenchimento |
 |---|---|
 | Título provisório do projeto |FERRAMENTAS DE CONTROLE PARENTAL: UMA ANÁLISE COMPARATIVA PARA A PROTEÇÃO INFNTOJUVENIL À LUZ DA LGPD E DO ECA DIGITAL |
-| Curso / disciplina |CIÊNCIA DE DADOS |
+| Curso / disciplina |SISTEMAS DE INFORMAÇÃO |
 | Turma | SISTEMAS DE INFORMAÇÃO |
 | Equipe |GABRIELA MARCELA ALVARENGA / GRAZIELA MARCELA ALVARENGA |
 | Integrantes e funções iniciais |GABRIELA MARCELA ALVARENGA / GRAZIELA MARCELA ALVARENGA |
@@ -31,7 +31,7 @@ Problema: crianças e adolescentes estão expostos a riscos cibernéticos (groom
 
 Público-alvo: pais/responsáveis, adolescentes, desenvolvedores e reguladores.
 
-Proposta de análise: avaliação comparativa de cinco ferramentas (Google Family Link, Qustodio, Kaspersky Safe Kids, Microsoft Family Safety, KidsControl) por matriz multicritério e testes simulados, verificando mecanismos de PLN/ML na detecção de risco, transparência algorítmica (XAI), governança de dados e usabilidade (IHC), sob a LGPD e o ECA Digital.
+Proposta de análise: avaliação comparativa de três ferramentas (Google Family Link, Qustodio, Microsoft Family Safety) por matriz multicritério e testes simulados, verificando mecanismos na detecção de risco, transparência algorítmica (XAI), governança de dados e usabilidade (IHC), sob a LGPD e o ECA Digital.
 
 Resultado esperado: ranking técnico auditado indicando quais ferramentas atendem a esses requisitos.
 
