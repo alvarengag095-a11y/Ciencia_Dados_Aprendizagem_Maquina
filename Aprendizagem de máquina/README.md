@@ -9,9 +9,9 @@ Este repositório registra as atividades de introdução ao Machine Learning e d
 
 ## Identificação do repositório
 
-- Estudante ou equipe: **PREENCHER**
-- Turma: **PREENCHER**
-- Repositório: **PREENCHER**
+- Estudante ou equipe: Gabriela Marcela Alvarenga Silva Viana
+- Turma: Sistemas de Informação N1
+- Repositório: Aprendizado de Máquina
 
 ## Atividades
 
