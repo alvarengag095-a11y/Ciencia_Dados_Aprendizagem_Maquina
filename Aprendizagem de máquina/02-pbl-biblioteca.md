@@ -7,10 +7,10 @@ Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.
 
 ## Identificação
 
-- Estudante ou equipe: **PREENCHER**
-- Turma: **PREENCHER**
-- Data de realização: **PREENCHER**
-- Integrantes e contribuições (se em equipe): **PREENCHER**
+- Estudante ou equipe: Gabriela Marcela Alvarenga
+- Turma: Sistemas de Informação
+- Data de realização: não se aplica
+- Integrantes e contribuições (se em equipe): não se aplica
 
 ## Situação-problema
 
@@ -33,25 +33,25 @@ Uma biblioteca universitária enfrenta filas em horários específicos e baixa u
 
 | Campo | Registro |
 | --- | --- |
-| Problema e decisão | PREENCHER |
-| Público-alvo | PREENCHER |
-| O que sabemos | PREENCHER |
-| O que precisamos investigar | PREENCHER |
-| Pergunta de negócio 1 | PREENCHER |
-| Pergunta de negócio 2 | PREENCHER |
-| Unidade de análise e período | PREENCHER |
-| Atributos, unidades e origem pretendida | PREENCHER |
-| Alvo e momento em que será conhecido, ou ausência de alvo | PREENCHER |
-| Abordagem e justificativa | PREENCHER |
-| Alternativa sem ML | PREENCHER |
-| Como avaliar a proposta | PREENCHER |
-| Privacidade e limitações | PREENCHER |
+| Problema e decisão | O problema é que a biblioteca tem fila em alguns horários e alguns serviços quase não são usados. A decisão a apoiar é: em quais dias e horários reforçar a equipe de atendimento e quais serviços precisam ser mais divulgados ou ajustados. |
+| Público-alvo | Estudantes que usam a biblioteca, equipe de atendimento e gestão (coordenação). |
+| O que sabemos | Existem filas em horários específicos. Alguns serviços têm pouco uso. A coordenação quer melhorar o atendimento e planejar melhor os recursos. |
+| O que precisamos investigar | Quais dias e horários têm mais fila e quanto as pessoas esperam. Se isso muda em época de provas. Quais serviços são pouco usados e por quê (falta de divulgação, horário ruim, pouco conhecimento). Que dados a biblioteca já registra. |
+| Pergunta de negócio 1 | Em quais dias e horários a biblioteca tem mais movimento e fila, e isso muda na semana de provas? |
+| Pergunta de negócio 2 | Quais serviços são menos usados e em quais períodos, para decidir onde divulgar ou mudar a oferta? |
+| Unidade de análise e período | Pergunta 1: cada faixa de horário de cada dia (ex.: terça, 18h às 19h). Pergunta 2: cada serviço por semana. Período: um semestre letivo. |
+| Atributos, unidades e origem pretendida | Dia da semana, horário, número de pessoas que entraram, número de atendimentos, tempo de espera em minutos, se era semana de provas e número de atendentes. Os dados viriam da catraca, do sistema da biblioteca e do calendário acadêmico, sem identificar ninguém. |
+| Alvo e momento em que será conhecido, ou ausência de alvo | No começo não tem alvo, só analisamos os dados. Se for prever a demanda, o alvo seria o número de pessoas por hora, que só se sabe no fim de cada hora. |
+| Abordagem e justificativa | Análise descritiva, com tabelas e gráficos dos horários mais cheios e dos serviços mais usados. Já responde as perguntas, que são sobre quando e quanto. |
+| Alternativa sem ML | Contar as pessoas por dia e horário em uma planilha, fazer um gráfico e ajustar a escala dos atendentes nos horários de pico. |
+| Como avaliar a proposta | Ver se a fila diminuiu depois da mudança na escala, se o uso dos serviços divulgados aumentou e perguntar aos usuários se o atendimento melhorou. |
+| Privacidade e limitações | Usar só dados anônimos, sem nome nem matrícula, de acordo com a LGPD. Limitações: pode haver poucos dados, falhas no registro e dias fora do normal, como feriados. |
 
 ## Registro de colaboração
 
 | Integrante | Papel | Contribuição |
 | --- | --- | --- |
-| PREENCHER | PREENCHER | PREENCHER |
+| Gabriela | Responsável pelo trabalho todo | Fez o canvas, a conclusão e a síntese da apresentação. |
 
 ## Conclusão da equipe
 
