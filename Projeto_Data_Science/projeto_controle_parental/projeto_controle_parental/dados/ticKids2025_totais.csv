@@ -1,0 +1,28 @@
+bloco,indicador,valor_pct,confianca,observacao,fonte
+acesso,Usuários de Internet de 9 a 17 anos,92,confirmado_texto,Nota técnica Fundação Telefônica; 24.585.769 usuários nos últimos 3 meses,Cetic.br - Principais Resultados 2025 / notas de apoio
+acesso,Usam o celular para acessar a Internet,96,confirmado_texto,Nota técnica Fundação Telefônica,Cetic.br - Principais Resultados 2025 / notas de apoio
+acesso,Começaram a usar a Internet até os 6 anos (2025),28,confirmado_texto,Era 10% em 2016,Cetic.br - Principais Resultados 2025 / notas de apoio
+acesso,Começaram a usar a Internet até os 6 anos (2016),10,confirmado_texto,,Cetic.br - Principais Resultados 2025 / notas de apoio
+acesso,Acessam a Internet pelo celular na escola (2024),51,confirmado_texto,,Cetic.br - Principais Resultados 2025 / notas de apoio
+acesso,Acessam a Internet pelo celular na escola (2025),37,confirmado_texto,,Cetic.br - Principais Resultados 2025 / notas de apoio
+mediacao_tecnica,Recurso que limita o tempo na Internet,37,confirmado_texto,TeleTime 22/10/2025,Cetic.br - Principais Resultados 2025 / notas de apoio
+mediacao_tecnica,Recurso para monitorar sites/aplicativos acessados,34,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+mediacao_tecnica,Recurso que filtra aplicativos que pode baixar,33,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+mediacao_tecnica,Recurso para bloquear ou filtrar tipos de sites,33,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+mediacao_tecnica,Recurso que alerta sobre compras em aplicativos,31,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+mediacao_tecnica,Recurso que limita com quem pode falar (chamadas/mensagens),27,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+mediacao_tecnica,Bloqueio de anúncios,22,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+mediacao_dialogo,Pais conversam sobre o que o filho faz na Internet,44,confirmado_texto,Nota técnica Fundação Telefônica; TeleTime,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Aprendem sobre uso seguro com a própria criança/adolescente,50,confirmado_texto,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Familiares ou amigos,48,confirmado_texto,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,"TV, rádio, jornais ou revistas",42,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Escola da criança/adolescente,41,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Sites com informações sobre segurança,37,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Vídeos ou tutoriais online,36,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Grupos de pais em redes sociais,31,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Provedores de serviços de Internet,30,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Governo ou autoridades locais,25,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,Fabricantes e varejistas de produtos infantis,21,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+fonte_orientacao,ONGs ou institutos pró-crianças,19,leitura_grafico,,Cetic.br - Principais Resultados 2025 / notas de apoio
+riscos,Contato com propaganda inadequada para a idade (relato dos responsáveis),45,confirmado_texto,"Matéria Viva, a partir do TIC Kids 2025",Cetic.br - Principais Resultados 2025 / notas de apoio
+riscos,Pediram algum produto após ver anúncio,51,confirmado_texto,,Cetic.br - Principais Resultados 2025 / notas de apoio

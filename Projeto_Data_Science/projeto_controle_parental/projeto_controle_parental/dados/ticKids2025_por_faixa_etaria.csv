@@ -1,0 +1,54 @@
+bloco,indicador,grupo,valor_pct,universo,confianca,fonte,observacao
+mediacao,Pais colocam regras para usar o celular,Total,37,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 37% confirmado na nota técnica da Fundação Telefônica; valores por faixa lidos do gráfico
+mediacao,Pais colocam regras para usar o celular,9-10,58,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 37% confirmado na nota técnica da Fundação Telefônica; valores por faixa lidos do gráfico
+mediacao,Pais colocam regras para usar o celular,11-12,50,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 37% confirmado na nota técnica da Fundação Telefônica; valores por faixa lidos do gráfico
+mediacao,Pais colocam regras para usar o celular,13-14,35,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 37% confirmado na nota técnica da Fundação Telefônica; valores por faixa lidos do gráfico
+mediacao,Pais colocam regras para usar o celular,15-17,18,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 37% confirmado na nota técnica da Fundação Telefônica; valores por faixa lidos do gráfico
+mediacao,Pais olham o celular (com quem fala / o que faz),Total,35,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais olham o celular (com quem fala / o que faz),9-10,46,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais olham o celular (com quem fala / o que faz),11-12,49,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais olham o celular (com quem fala / o que faz),13-14,36,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais olham o celular (com quem fala / o que faz),15-17,18,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais deixam sem usar o celular por algum tempo,Total,20,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais deixam sem usar o celular por algum tempo,9-10,26,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais deixam sem usar o celular por algum tempo,11-12,34,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais deixam sem usar o celular por algum tempo,13-14,18,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Pais deixam sem usar o celular por algum tempo,15-17,10,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,
+mediacao,Percebe que os pais sabem 'muito' do que faz online,Total,53,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 53% confirmado na nota técnica da Fundação Telefônica
+mediacao,Percebe que os pais sabem 'muito' do que faz online,9-10,62,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 53% confirmado na nota técnica da Fundação Telefônica
+mediacao,Percebe que os pais sabem 'muito' do que faz online,11-12,65,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 53% confirmado na nota técnica da Fundação Telefônica
+mediacao,Percebe que os pais sabem 'muito' do que faz online,13-14,51,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 53% confirmado na nota técnica da Fundação Telefônica
+mediacao,Percebe que os pais sabem 'muito' do que faz online,15-17,42,9-17,leitura_grafico,Cetic.br - Principais Resultados 2025,Total 53% confirmado na nota técnica da Fundação Telefônica
+mediacao,Ajuda os pais a fazer algo na Internet,Total,31,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+mediacao,Ajuda os pais a fazer algo na Internet,9-10,15,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+mediacao,Ajuda os pais a fazer algo na Internet,11-12,27,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+mediacao,Ajuda os pais a fazer algo na Internet,13-14,41,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+mediacao,Ajuda os pais a fazer algo na Internet,15-17,37,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Usou IA generativa (ao menos uma atividade),Total,65,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Usou IA generativa (ao menos uma atividade),9-10,42,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Usou IA generativa (ao menos uma atividade),11-12,62,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Usou IA generativa (ao menos uma atividade),13-14,75,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Usou IA generativa (ao menos uma atividade),15-17,75,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Pesquisou produtos na Internet para comprar,Total,63,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Pesquisou produtos na Internet para comprar,9-10,42,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Pesquisou produtos na Internet para comprar,11-12,60,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Pesquisou produtos na Internet para comprar,13-14,72,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Pesquisou produtos na Internet para comprar,15-17,72,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Realizou compras na Internet,Total,20,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Realizou compras na Internet,9-10,4,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Realizou compras na Internet,11-12,11,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Realizou compras na Internet,13-14,23,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Realizou compras na Internet,15-17,33,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Tentou vender coisas na Internet,Total,4,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Tentou vender coisas na Internet,9-10,3,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Tentou vender coisas na Internet,11-12,1,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Tentou vender coisas na Internet,13-14,5,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Tentou vender coisas na Internet,15-17,8,9-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Sabe diferenciar conteúdo patrocinado de não patrocinado,Total,54,11-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Sabe diferenciar conteúdo patrocinado de não patrocinado,11-12,30,11-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Sabe diferenciar conteúdo patrocinado de não patrocinado,13-14,63,11-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Sabe diferenciar conteúdo patrocinado de não patrocinado,15-17,64,11-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Gastou em jogos online (itens/fases),Total,21,11-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Gastou em jogos online (itens/fases),11-12,16,11-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Gastou em jogos online (itens/fases),13-14,22,11-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
+exposicao,Gastou em jogos online (itens/fases),15-17,24,11-17,confirmado_texto,Cetic.br - Principais Resultados 2025,
