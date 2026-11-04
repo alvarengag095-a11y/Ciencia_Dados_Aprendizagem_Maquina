@@ -67,7 +67,10 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/crispdm_controle_p
 
 ## Fontes
 
-- SAFERNET BRASIL. *Indicadores Denúncias 2025.* arquivos.safernet.org.br/pdfs/INDICADORES-DenunciasSaferNet2025.pdf
-- CETIC.BR/NIC.BR. *TIC Kids Online Brasil 2025 – Principais Resultados.* 22 out. 2025. cetic.br/media/analises/tic_kids_online_brasil_2025_principais_resultados.pdf
-- FUNDAÇÃO TELEFÔNICA VIVO. *Nota técnica: TIC Kids Online Brasil 2025.* 31 out. 2025.
-- CHAPMAN, P. et al. *CRISP-DM 1.0: Step-by-step data mining guide.* 2000.
+- SAFERNET BRASIL. *Indicadores: denúncias 2025.* [S. l.]: SaferNet Brasil, 2025. Disponível em: https://arquivos.safernet.org.br/pdfs/INDICADORES-DenunciasSaferNet2025.pdf. Acesso em: 4 nov. 2026.
+
+- CETIC.BR; NIC.BR. *TIC Kids Online Brasil 2025: principais resultados.* São Paulo: Cetic.br; NIC.br, 2025. Disponível em: https://cetic.br/media/analises/tic_kids_online_brasil_2025_principais_resultados.pdf. Acesso em: 4 nov. 2026.
+
+- FUNDAÇÃO TELEFÔNICA VIVO. *Divulgada pesquisa sobre o uso da internet por crianças e adolescentes: TIC Kids Online Brasil 2025.* [S. l.], 31 out. 2025. Disponível em: https://www.fundacaotelefonicavivo.org.br/wp-content/uploads/pdfs/NotaTecnicaTICKidsOnline2025.pdf. Acesso em: 4 nov. 2026.
+
+- CHAPMAN, Pete et al. *CRISP-DM 1.0: step-by-step data mining guide.* [S. l.]: SPSS, 2000. Disponível em: https://www.the-modeling-agency.com/crisp-dm.pdf. Acesso em: 4 nov. 2026.
