@@ -5,8 +5,6 @@ Projeto de **Ciência de Dados e Aprendizagem de Máquina** (UDF), baseado no TC
 
 **Integrantes:** Graziela Marcela Alvarenga Silva Viana · Gabriela Marcela Alvarenga Silva Viana
 
-> **Dados públicos e agregados, nada simulado.** Os números vêm da SaferNet Brasil e do Cetic.br/NIC.br. Como não são registros individuais, o projeto usa regressão, validação de séries temporais e análise comparativa por faixa etária, e **não** K-means nem classificadores. Cada linha dos dados traz a fonte e a coluna `confianca`: `confirmado_texto` ou `leitura_grafico` (lido de gráfico, **conferir nas tabelas oficiais antes de entregar**).
-
 ## Perguntas de análise
 
 | Pergunta | Responsável | Técnica | Resposta |
