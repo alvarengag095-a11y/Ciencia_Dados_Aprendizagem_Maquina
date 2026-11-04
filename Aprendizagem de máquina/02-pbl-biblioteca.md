@@ -55,7 +55,7 @@ Uma biblioteca universitária enfrenta filas em horários específicos e baixa u
 
 ## Conclusão da equipe
 
-**Proposta:** PREENCHER
+**Proposta:** começar com uma análise descritiva do movimento por dia e horário e do uso dos serviços, usando apenas dados agregados e anônimos, para ajustar a escala da equipe e divulgar os serviços pouco usados. Depois, se for útil, criar um modelo de regressão para prever a demanda.
 
 **Dúvida ainda aberta:** PREENCHER
 
