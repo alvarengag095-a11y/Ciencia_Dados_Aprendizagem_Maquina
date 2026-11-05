@@ -1,7 +1,6 @@
 # Controle parental: proteção infantojuvenil no mundo digital
 ### Análise de dados com CRISP-DM (SaferNet e TIC Kids Online Brasil 2025)
 
-Projeto de **Ciência de Dados e Aprendizagem de Máquina** (UDF), baseado no TCC *Controle parental: proteção infantojuvenil no mundo digital*.
 
 **Integrantes:** Graziela Marcela Alvarenga Silva Viana · Gabriela Marcela Alvarenga Silva Viana
 
